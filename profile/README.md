@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Curateds 👋
 
 <!--
 
@@ -14,6 +14,12 @@
 [Curateds](https://www.curateds.com) is a community for curated lists, a platform to explore and curate awesome lists on various topics.
 It includes 500+ awesome lists and 100,000+ curated items.
 
+Compared to awesome lists on Github, it's more user friendly. Features include:
+- Curated items are ranked by popularity by default.
+- You're able to star or comment on the curated items.
+- Conveniently search for lists or items on a single touch.
+
 📣 Visit the [website](https://www.curateds.com) to discover awesome lists curated by the community.
 
+## Getting Help
 💬 Ask questions or provide feedback on the [forum](https://github.com/orgs/curateds/discussions).
